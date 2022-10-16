@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Domain IQ",
+    "name": "domainiq",
+    "url": "https://www.domainiq.com/snapshot_history?data={value}#{value}"
+  },
+  {
+    "label": "Moon Search",
+    "name": "moonsearch",
+    "url": "https://moonsearch.com/report/{value}.html"
+  }
+]
