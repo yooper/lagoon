@@ -1,7 +1,7 @@
 {
   "name": "lagoon",
   "version": "0.1.0",
-  "homepage": "https://lagoon.local-internet-archive.com",
+  "homepage": "http://yooper.github.io/lagoon",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
